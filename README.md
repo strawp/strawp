@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I largely build quick and dirty scripts to exploit web vulnerabilities. Some of my stuff is also in [/nettitude](http://github.com/nettitude), e.g. [/nettitude](http://github.com/nettitude/xss_payloads).
+I'm a CHECK Team Leader web app pentester and I largely build quick and dirty scripts to exploit web vulnerabilities. Some of my stuff is also in [/nettitude](http://github.com/nettitude), e.g. [xss_payloads](http://github.com/nettitude/xss_payloads).
 
 You can reach me on [@strawp](https://twitter.com/strawp).
 
