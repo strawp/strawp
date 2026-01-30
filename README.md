@@ -12,4 +12,3 @@ Highlights:
 You can reach me on:
 
  - <a href="https://infosec.exchange/@Strawp" rel="me">@strawp@infosec.exchange</a>
- - [@strawp](https://twitter.com/strawp)
