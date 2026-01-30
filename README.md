@@ -1,4 +1,4 @@
-I'm a CHECK Team Leader web app pentester and I largely build quick and dirty scripts to exploit web vulnerabilities. Some of my stuff is also in [/nettitude](http://github.com/nettitude). 
+I'm a CHECK Team Leader web app pentester and I largely build quick and dirty scripts to exploit web vulnerabilities. 
 
 Highlights:
 
